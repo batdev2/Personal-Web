@@ -3,7 +3,7 @@ $("#firstProject").on("click", function() {
 });
 
 $("#secondProject").on("click", function() {
-    location.href = "https://batdev2.github.io/move-it/";
+    location.href = "https://batdev2.github.io/simon-game/";
 });
 
 $("#navProjects").on("click", function() {
